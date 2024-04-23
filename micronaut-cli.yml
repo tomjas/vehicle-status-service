@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.softavail
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, h2, http-client-test, java, java-application, jdbc-hikari, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, microstream, microstream-rest, netty-server, properties, reactor, readme, serialization-jackson, shade, static-resources]
